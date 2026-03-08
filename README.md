@@ -25,6 +25,3 @@ What this means: You are free to use, copy, modify, and distribute this software
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The author is not liable for any issues, lost time, or frustration arising from the use of this code.
 
 See the LICENSE file for the full legal text.
-
-
-Would you like me to generate the same style of single-block markdown for a different project now?
